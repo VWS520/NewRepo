@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Tejas Study Files\Automation\Gitx\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1828026965.index
+760091825.index
