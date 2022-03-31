@@ -6,7 +6,6 @@ public class Test3 {
 		double a=2.5;
 		double b=3.5;
 		System.out.println(a*b);
-		System.out.println("Test case is modified");
 		
 	}
 
